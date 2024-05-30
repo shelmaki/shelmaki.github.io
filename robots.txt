@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://shelmaki.github.io/a/sitemap.html
+Sitemap: https://shelmaki.github.io/b/sitemap.html
+Sitemap: https://shelmaki.github.io/c/sitemap.html
+Sitemap: https://shelmaki.github.io/d/sitemap.html
